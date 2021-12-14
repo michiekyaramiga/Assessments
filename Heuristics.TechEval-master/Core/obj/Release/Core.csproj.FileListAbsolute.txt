@@ -1,0 +1,14 @@
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\bin\Release\Heuristics.TechEval.Core.dll.config
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\bin\Release\Heuristics.TechEval.Core.dll
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\bin\Release\Heuristics.TechEval.Core.pdb
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\bin\Release\EntityFramework.dll
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\bin\Release\EntityFramework.xml
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\obj\Release\Core.csproj.AssemblyReference.cache
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\obj\Release\Heuristics.TechEval.Core.Migrations.Initial.resources
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\obj\Release\Core.csproj.GenerateResource.cache
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\obj\Release\Core.csproj.CopyComplete
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\obj\Release\Heuristics.TechEval.Core.dll
+C:\Users\michi\Downloads\Heuristics.TechEval-master\Heuristics.TechEval-master\Core\obj\Release\Heuristics.TechEval.Core.pdb
